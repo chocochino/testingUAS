@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">testingUAS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_placeholder">Name</string>
+    <string name="nim_placeholder">NIM</string>
+    <string name="instruction_text">Input your name and NIM to proceed</string>
+    <string name="submit_text">Submit</string>
+    <string name="star_description">A star</string>
+    <string name="result_text">This is the data you inputted</string>
+    <string name="next_text">Next</string>
+    <string name="final_text">This is the final activity</string>
+    <string name="end_activity">End Activity</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="result_activity">Result Activity</string>
+</resources>
